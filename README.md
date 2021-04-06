@@ -1,5 +1,4 @@
-# Salesforce project to explore how to work with data using LWC. 
-# Following the trailhead Lightning Web Components and Salesforce Data 
+# Salesforce project to explore how to work with data using LWC. (Following the trailhead Lightning Web Components and Salesforce Data) 
 
 ## For this project we explored the use of 
 - Lightning Data Service using <lightning-record-form>
