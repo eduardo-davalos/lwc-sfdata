@@ -17,3 +17,23 @@
 ## Apex
 - AccountController (Class that returns a list of Accounts)
 - ContactController (Class that returns a list of Contacts)
+
+## Testing LWC
+- LWC unitTest.js
+Also we tried testing LWC, using Jest npm package
+Test available on the components:
+-otherComponents
+-unitTest
+-wireApex
+-wireCPR
+-wireLDS
+
+-Install
+sfdx-lwc-jest module (https://www.npmjs.com/package/@salesforce/sfdx-lwc-jest)
+sfdx force:lightning:lwc:test:setup
+
+npm run test:unit //run all test
+npm run test:unit:watch // run test continously during deployment
+npm run test:unit:debug  //test in debug mode
+npm run test:unit:coverage //see coverage
+
